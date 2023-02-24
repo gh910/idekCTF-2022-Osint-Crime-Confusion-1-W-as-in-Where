@@ -16,3 +16,10 @@ Who is that someone? That is for you to find,
 Also who is the killer, if you really don't mind.
 
 Note for the all the challenges: The challenge is divided into three challenges: Where, Weapon, and Who. Where is the first one the others will come later. In each one you can find the flag somwhere online. You might find the information in any order, however the expected order is: Where, Weapon and Who. Example: If the answer is knife then when you would discover that somewhere: like "the killer used a idek{knife_V5478G}" or instructions on how to get the flag: like idek{weaponUsed_V5478G}. The flag would then be idek{knife_V5478G}.
+
+
+Solution : 
+
+At first, I manually searched on social media for Jonathan Abigdail, and after searching, I found a profile on Instagram with the name of Dr. Jonathan Abigdale III
+
+![Screenshot (220)](https://user-images.githubusercontent.com/80649768/221230296-a58fba85-dd22-4897-8c90-4a3ee75946de.png)
