@@ -39,7 +39,7 @@ Clicking the hashtag brings us to another image. The image is another eye but ne
 ![Screenshot (221)](https://user-images.githubusercontent.com/80649768/221232776-48609fb1-8128-4fa7-90ba-dfc60d03e427.png)
 
 
-After logging into the account of the other user, we see that there is a post that contains important details
+After into the account of the other user, we see that there is a post that contains important details
 
 ![Screenshot (229)](https://user-images.githubusercontent.com/80649768/221233560-57e6b853-49db-4a84-b91e-d3f6a3478e93.png)
 
