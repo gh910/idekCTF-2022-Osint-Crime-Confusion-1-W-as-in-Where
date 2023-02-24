@@ -47,11 +47,24 @@ Checking out the image, we find a number of clues from the description, namely t
 
 I initially thought that the great_paintball_portugal competition was a real location or event, and tried to google keywords related to this, to no success. Next I tried to see if great_paintball_portugal could be a username on eBay
 
-To that effect, eBay’s user profiles are accessible at https://www.ebay.com/usr/<username>. Replacing <username> with great_paintball_portugal brings us to the user’s profile.
+To that effect, eBay’s user profiles are accessible at https://www.ebay.com/usr/"username". Replacing "username" with great_paintball_portugal brings us to the user’s profile.
 
 As we can see in the can see in the description, there is a link to a Wix website.
 
 ![Screenshot (223)](https://user-images.githubusercontent.com/80649768/221235170-819ca4f0-062c-4f4b-b4e9-2de6fb1ca343.png)
+
+Navigating to the website, we see only see a home page with no sign of the blog post as mentioned in the eBay description.
+
+![Screenshot (226)](https://user-images.githubusercontent.com/80649768/221236779-9a054ced-ad4c-4dc3-955a-68e2973b3baf.png)
+
+After a while, I tried append /blog to the URL, and it worked! We can see a single post on the website.
+
+![Screenshot (227)](https://user-images.githubusercontent.com/80649768/221236819-79494734-6ab2-464b-97be-36d1d387e5e8.png)
+
+wow , the flag is here
+
+
+![Screenshot (228)](https://user-images.githubusercontent.com/80649768/221237291-8c8bd6ca-b613-49de-8aa1-812b0086e0a6.png)
 
 
 
